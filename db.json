@@ -1,21 +1,18 @@
-<< << << < HEAD
+{
     "users": [{
-        "id": "1",
-        "name": "Leon",
-        "surname": "Legendary",
-        "photo_url": "https://static.wikia.nocookie.net/brawlstars/images/3/33/Leon_Skin-Default.png/revision/latest/scale-to-width-down/250?cb=20200508192206&path-prefix=ru"
-        "balance": 2126
-    }] ===
-    === = {
-        "users": [{
-                "id": 1,
-                "name": "Andriy",
-                "sirname": "BYBKA",
-                "photo_url": "https://i.pinimg.com/originals/02/d5/71/02d5716153bcd59cb8606f03d67c8798.png",
-                "balance": 2300
-            }
+            "id": "1",
+            "name": "Leon",
+            "surname": "Legendary",
+            "photo_url": "https://static.wikia.nocookie.net/brawlstars/images/3/33/Leon_Skin-Default.png/revision/latest/scale-to-width-down/250?cb=20200508192206&path-prefix=ru"
+            "balance": 2126
+        },
+        {
+            "id": 1,
+            "name": "Andriy",
+            "sirname": "BYBKA",
+            "photo_url": "https://i.pinimg.com/originals/02/d5/71/02d5716153bcd59cb8606f03d67c8798.png",
+            "balance": 2300
+        }
+    ]
 
-
-        ]
-    } >>>
-    >>> > 0b 5 c85f236b8a797ce6afab21bbe703759546ee0
+}
