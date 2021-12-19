@@ -1,0 +1,13 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-image: url(https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2021-06/210601-lgbtq-flag-joe-biden-victory-celebration-se-1010a-8fb47e.jpg);
+    background-size: cover;
+    height: 100vh;
+}
+#biden{
+    position: relative;
+    margin-left: 89em;
+}
