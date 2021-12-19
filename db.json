@@ -1,5 +1,13 @@
 {
     "users":[
+        {
+            "id": 1,
+            "name": "Andriy",
+            "sirname":"BYBKA",
+            "photo_url":"https://i.pinimg.com/originals/02/d5/71/02d5716153bcd59cb8606f03d67c8798.png",
+            "balance":2300
+        }
         
+
     ]
 }
